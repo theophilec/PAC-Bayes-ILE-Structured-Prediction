@@ -1,6 +1,6 @@
 # PAC-Bayesian ILE Structured Prediction
 
-This repository accompanies the JMLR submission **A PAC-Bayesian Perspective on Structured Prediction with Implicit Loss Embeddings** by Théophile Cantelobre (Mines ParisTech, Inria), Benjamin Guedj (Inria, UCL), María Pérez-Ortiz (UCL) and John Shawe-Taylor (UCL).
+This repository accompanies the pre-print **A PAC-Bayesian Perspective on Structured Prediction with Implicit Loss Embeddings** by Théophile Cantelobre (Mines ParisTech, Inria), Benjamin Guedj (Inria, UCL), María Pérez-Ortiz (UCL) and John Shawe-Taylor (UCL).
 
 The pre-print is available here: *link coming soon*.
 
